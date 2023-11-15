@@ -1,3 +1,1 @@
-Hands-on: bla ble bla
-
-alt erar
+bla ble bla
